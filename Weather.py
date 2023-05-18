@@ -1,5 +1,5 @@
 import requests
-import json #module to change str to dictionary
+import json 
 import gtts
 import playsound
 
